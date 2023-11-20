@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Model name="SUMDD" id="SUMDD" language="delphi">
+  <Package name="Sectioning" id="ID=4">
+    <DesignElement name="Object1" id="ID=2003" metaclass="Object" />
+    <Diagram name="Sectioning" id="ID=1283" metaclass="Namespace Diagram" file="default.txvpck.html">
+      <Property name="defaultDiagram">true</Property>
+      <DiagramReference id="ID=1999" element="ID=1998" metaclass="Module" />
+    </Diagram>
+    <Classifier name="globals Sectioning" id="ID=1998" type="Module" visibility="public">
+      <Uses />
+      <Method id="ID=2005" name="DoOpticalSection" visibility="public">
+        <ReturnType id="ID=2005" type="" isPrimitive="true" />
+        <Parameter elementName="d" id="ID3=2005_7625" type="double" systemType="Double" isPrimitive="false" />
+      </Method>
+      <Method id="ID=2007" name="DoTemporalSection" visibility="public">
+        <ReturnType id="ID=2007" type="" isPrimitive="true" />
+      </Method>
+      <Method id="ID=2009" name="DoOpticalSection" visibility="public">
+        <ReturnType id="ID=2009" type="" isPrimitive="true" />
+        <Parameter elementName="i" id="ID3=2009_7624" type="integer" systemType="Int32" isPrimitive="false" />
+      </Method>
+    </Classifier>
+  </Package>
+</Model>

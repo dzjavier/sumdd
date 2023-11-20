@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="086iij48tj2affi_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="design:view:::j56g41m9tskpqpf_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="160,0,116,143" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:InitWindow.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:InitWindow.TFInitWindow" />
+    </reference>
+    <reference referencedUin="design:view:::w4600qt9towx1rh_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="160,160,115,171" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:DecTypes.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:DecTypes.TComplex" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:DecTypes.TSectioningData" />
+    </reference>
+    <reference referencedUin="design:view:::a460k810trke3qo_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="280,0,127,143" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:AboutSumdd.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:AboutSumdd.TAboutBox" />
+    </reference>
+    <reference referencedUin="design:view:::p363r490tqmbtel_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="280,160,133,143" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:ImageCapture.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:ImageCapture.TFImage" />
+    </reference>
+    <reference referencedUin="design:view:::s46k2vc0trg60dt_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="420,0,138,143" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:ControlOptions.TFControlOptions" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:ControlOptions.@unitclass" />
+    </reference>
+    <reference referencedUin="design:view:::v26njyk0ty73w5s_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="596,502,153,265" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:APOGEELib_TLB.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:APOGEELib_TLB.ICamera" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:APOGEELib_TLB.ICameraDisp" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:APOGEELib_TLB.ICamera2" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:APOGEELib_TLB.ICamera2Disp" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:APOGEELib_TLB.ICamDiscover" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:APOGEELib_TLB.ICamDiscoverDisp" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:APOGEELib_TLB.CoCamera" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:APOGEELib_TLB.CoCamera2" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:APOGEELib_TLB.CoCamDiscover" />
+    </reference>
+    <reference referencedUin="design:view:::b161jo5atxpzthn_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="720,0,140,160" />
+      <property name="bounds_setted_by_user" value="True" />
+    </reference>
+    <reference referencedUin="design:view:::1169j80atmu9cjq_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="420,160,120,140" />
+      <property name="bounds_setted_by_user" value="True" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:DataSectioning.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:DataSectioning.TFDataSections" />
+    </reference>
+    <reference referencedUin="design:view:::q06gjrdat5x6s3t_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="560,160,146,143" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:TimeLapseFiling.TFTimeLapse" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:TimeLapseFiling.@unitclass" />
+    </reference>
+    <reference referencedUin="design:view:::uz5kyzqatt2ztzp_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="240,340,143,143" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:SectioningFiling.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:SectioningFiling.TFSectioning" />
+    </reference>
+    <reference referencedUin="design:view:::jz5inbvatuus0se_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="120,340,111,143" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:MainForm.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:MainForm.TMainWindow" />
+    </reference>
+    <reference referencedUin="design:view:::cz50z20btl45nug_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="0,320,100,126" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:SUMDD.@unitclass" />
+    </reference>
+    <reference referencedUin="design:view:::iy5x0wcbte0cxdi_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="540,340,123,143" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:LightMonitor.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:LightMonitor.UVLightMonitor" />
+    </reference>
+    <reference referencedUin="design:view:::8y5elmhbtyu7z5k_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="720,180,140,123" />
+      <property name="bounds_setted_by_user" value="True" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:TemperatureControl.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:TemperatureControl.TFTemperatureControl" />
+    </reference>
+    <reference referencedUin="design:view:::ar5xthrbte1ln6q_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="680,340,115,96" />
+    </reference>
+    <reference referencedUin="design:view:::f56nslybt5pfrxq_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="140,500,162,96" />
+    </reference>
+    <reference referencedUin="design:view:::5e0628hgf_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="@__package_fqn" value="CameraControl" />
+      <property name="bounds" value="560,0,139,158" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:CameraControl.CCDCamera" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:CameraControl.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:CameraControl.AM4Camera" />
+      <reference referencedUin="design:node:::6y9u89f9ipot1di_n">
+        <property name="bounds" value="380,500,0,0" />
+      </reference>
+      <reference referencedUin="design:node:::d00t16m8jluz0iq_n">
+        <property name="bounds" value="400,500,0,0" />
+      </reference>
+    </reference>
+    <reference referencedUin="design:view:::400swsmzh_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="@__package_fqn" value="StageControl" />
+      <property name="bounds" value="400,340,127,143" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:StageControl.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:StageControl.Stage" />
+    </reference>
+    <reference referencedUin="design:view:::cc9b2xn13pr180h_v">
+      <property name="$shortcutReference" value="true" />
+      <property name="@__package_fqn" value="Sectioning" />
+      <property name="bounds" value="0,460,113,143" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:Sectioning.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:SUMDD:Sectioning.Sectioner" />
+    </reference>
+  </view>
+</nodeSet>

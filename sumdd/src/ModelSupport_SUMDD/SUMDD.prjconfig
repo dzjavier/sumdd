@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.CameraControl" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.SUMDDMetadata" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.APOGEELib_TLB" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.SUMDD" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FilesManagement.Namespace1" Type="System.String" Value="FilesManagement\Namespace1" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FilesManagement" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.DateAndTime" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Sectioning" Type="System.String" Value="" IsBrowsable="False" />
+</TgConfig>

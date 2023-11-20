@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="di8up6hvrkyatvn_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:SUMDD:DateAndTime.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="10,10,133,77" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:SUMDD:DateAndTime.DateTime">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="162,1,203,95" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:DateAndTime.DateTime.getDateTimeISO8601()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:DateAndTime.DateTime.FirstLetterOfTheDay(System.UInt16)" />
+    </reference>
+  </view>
+</nodeSet>

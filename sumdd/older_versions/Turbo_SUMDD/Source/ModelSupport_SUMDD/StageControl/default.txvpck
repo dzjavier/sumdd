@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="400swsmzh_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:SUMDD:StageControl.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="10,10,130,94" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:StageControl.Stg" />
+      <reference referencedUin="delphi:l_ast:src:SUMDD:StageControl.Stg">
+        <property name="sourceAnchor" value="140,57" />
+        <property name="targetAnchor" value="159,57" />
+        <property name="bendpoints" value="" />
+      </reference>
+    </reference>
+    <reference referencedUin="delphi:e_class:src:SUMDD:StageControl.Stage">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="159,1,217,367" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:StageControl.Stage.Destroy()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:StageControl.Stage.Create(System.UInt16)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:StageControl.Stage.Setport(System.UInt16,System.Byte)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:StageControl.Stage.getport(System.UInt16)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:StageControl.Stage.Delay(System.Double)" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:StageControl.Stage.Freq" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:StageControl.Stage.DataToMoveDown" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:StageControl.Stage.DataToMoveUp" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:StageControl.Stage.StatusIni" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:StageControl.Stage.ContIni" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:StageControl.Stage.DataIni" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:StageControl.Stage.Dircontr" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:StageControl.Stage.DirStatus" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:StageControl.Stage.Dirdata" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:StageControl.Stage.MoveAStepDown(System.Single)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:StageControl.Stage.MoveAStepUp(System.Single)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:StageControl.Stage.MoveDown(System.Single,System.Single)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:StageControl.Stage.MoveUp(System.Single,System.Single)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:StageControl.Stage.Move(System.Single,System.Single)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:StageControl.Stage.CalibrateSpeed()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:StageControl.Stage.Delay(System.Single)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:StageControl.Stage.MoveFourStepsUp(System.Single)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:StageControl.Stage.MoveFourStepsDown(System.Single)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:StageControl.Stage.Calibrate()" />
+    </reference>
+  </view>
+</nodeSet>

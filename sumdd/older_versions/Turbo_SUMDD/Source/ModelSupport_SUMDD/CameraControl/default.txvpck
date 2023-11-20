@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="5e0628hgf_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:SUMDD:CameraControl.CCDCamera">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="467,104,174,322" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.CCDCamera.ResolutionBits" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.CCDCamera.ResolutionX" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.CCDCamera.ResolutionY" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.CCDCamera.Magnification" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.CCDCamera.TargetTemperature" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.CCDCamera.TemperatureMesured" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.CCDCamera.AllowCooling" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.CCDCamera.ExposeTime" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.CCDCamera.IniFileName" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.CCDCamera.SaveFileName" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.CCDCamera.CameraDetected" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.CCDCamera.Light" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.CCDCamera.getImage()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.CCDCamera.SetResolutionBits()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.CCDCamera.SetResolutionX()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.CCDCamera.SetResolutionY()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.CCDCamera.setTargetTemperature()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.CCDCamera.getTemperature()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.CCDCamera.getDarkFrame()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.CCDCamera.getBiasFrame()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.CCDCamera.setTimeExposure(System.Double)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.CCDCamera.Setlight(System.Boolean)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.CCDCamera.setResolutionX(System.UInt16)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.CCDCamera.setResolutionY(System.UInt16)" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:SUMDD:CameraControl.AM4Camera">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="10,10,251,624" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.Create(System.String)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.Destroy()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.SetResolutionBits()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.goToAmbient()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.temperatureControlOff()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.getDarkFrame()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.getBiasFrame()" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.AM4Camera.Cam" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.AM4Camera.CurrentImage" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.AM4Camera.DarkFrame" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.AM4Camera.FlatFrame" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.GetImage(ref@UVLightMonitor,ref@TImageArray,System.Boolean,System.Boolean,System.Int32,System.Int32,System.Int32,System.Double)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.SetResolutionX(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.SetResolutionY(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.setTargetTemperature(System.Double)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.getTemperature()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.getControlTemperatureStatus()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.setTimeExposure(System.Double)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.Setlight(System.Boolean)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.isPresent()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.getInitialTemperature(System.Single)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.Focus(System.Double,System.Boolean,System.Int32,System.Int32,TImgView32)" />
+      <reference referencedUin="delphi:e_property:src:SUMDD:CameraControl.AM4Camera.iniTemperature[]">
+        <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.IniTemperature[].get_IniTemperature" />
+        <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.iniTemperature[].get_iniTemperature" />
+      </reference>
+      <reference referencedUin="delphi:e_property:src:SUMDD:CameraControl.AM4Camera.MaxIntensity[]">
+        <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.MaxIntensity[].get_MaxIntensity" />
+      </reference>
+      <reference referencedUin="delphi:e_property:src:SUMDD:CameraControl.AM4Camera.MinIntensity[]">
+        <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.MinIntensity[].get_MinIntensity" />
+      </reference>
+      <reference referencedUin="delphi:e_property:src:SUMDD:CameraControl.AM4Camera.ReadTargetTemperature[]">
+        <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.ReadTargetTemperature[].get_ReadTargetTemperature" />
+      </reference>
+      <reference referencedUin="delphi:e_property:src:SUMDD:CameraControl.AM4Camera.MaxYDimension[]">
+        <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.MaxYDimension[].get_MaxYDimension" />
+      </reference>
+      <reference referencedUin="delphi:e_property:src:SUMDD:CameraControl.AM4Camera.MaxXDimension[]">
+        <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.MaxXDimension[].get_MaxXDimension" />
+      </reference>
+      <reference referencedUin="delphi:e_property:src:SUMDD:CameraControl.AM4Camera.MinExpositionTime[]">
+        <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.MinExpositionTime[].get_MinExpositionTime" />
+      </reference>
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.AM4Camera.MinIntensityValue" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.AM4Camera.InitialTemperature" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.AM4Camera.MinExpTime" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.AM4Camera.MaxYDim" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.AM4Camera.MaxIntensityValue" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.AM4Camera.MaxXDim" />
+      <reference referencedUin="delphi:l_gnt:src:SUMDD:CameraControl.AM4Camera:CameraControl.CCDCamera">
+        <property name="sourceAnchor" value="261,302" />
+        <property name="targetAnchor" value="467,302" />
+        <property name="bendpoints" value="" />
+      </reference>
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.GetImage(ref@LightMonitor.UVLightMonitor,ref@DecTypes.TWordArray,System.Int32,System.Int32,System.Double)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.GetImage(ref@DecTypes.TWordArray,System.Int32,System.Int32,System.Int32,System.Double)" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.AM4Camera.Temperature" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.AM4Camera.MaxIntensityCaptured" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.AM4Camera.MinIntensityCaptured" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.GetImage(ref@LightMonitor.UVLightMonitor,ref@DecTypes.TWordArray,System.UInt16,System.UInt16,System.Double)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.getImage(ref@DecTypes.TWordArray,System.UInt16,System.UInt16,System.UInt16,System.Double)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.setResolutionX(System.UInt16)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.setResolutionY(System.UInt16)" />
+      <reference referencedUin="delphi:e_property:src:SUMDD:CameraControl.AM4Camera.MaxCameraIntensity[]">
+        <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.MaxCameraIntensity[].get_MaxCameraIntensity" />
+      </reference>
+      <reference referencedUin="delphi:e_property:src:SUMDD:CameraControl.AM4Camera.MaxCapturedValue[]">
+        <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.MaxCapturedValue[].get_MaxCapturedValue" />
+      </reference>
+      <reference referencedUin="delphi:e_property:src:SUMDD:CameraControl.AM4Camera.MinCapturedValue[]">
+        <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.MinCapturedValue[].get_MinCapturedValue" />
+      </reference>
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.getImageDose()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.getExpositionTimeCorrected()" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:CameraControl.AM4Camera.getImage(ref@DecTypes.TWordArray,System.UInt16,System.UInt16,System.Double,System.Boolean)" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.AM4Camera.Freq" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.AM4Camera.ExpositionTimeCorrected" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.AM4Camera.ImageDose" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:SUMDD:CameraControl.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="283,1,142,94" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:CameraControl.Cam" />
+      <reference referencedUin="delphi:l_ast:src:SUMDD:CameraControl.Cam">
+        <property name="sourceAnchor" value="283,52" />
+        <property name="targetAnchor" value="261,52" />
+        <property name="bendpoints" value="" />
+      </reference>
+    </reference>
+  </view>
+</nodeSet>

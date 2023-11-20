@@ -1,0 +1,16 @@
+Especimen= 
+Autor= Lab.Microscopia
+Fecha= 19/10/2011
+T. Exposición [s]= 200
+T. Retardo [s]= 1
+Lente Objetiva= 10
+Magnificación Total= 1
+Aceite de Inm.= 
+Marcador= 
+Anticuerpo= 
+Encabezado= Hea
+Sección Inicial= 000
+Número de Secciones= 10
+Res. X= 512
+Res. Y= 512
+Imgs. a Promediar= 1

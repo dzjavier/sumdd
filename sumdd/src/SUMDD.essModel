@@ -1,0 +1,133 @@
+[Diagram:]
+OffsetX=0
+OffsetY=40
+Visibility=0
+ShowAssoc=1
+
+[Diagram:]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=0
+
+[Diagram:]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=0
+
+[Diagram:]
+OffsetX=0
+OffsetY=2063
+Visibility=0
+ShowAssoc=0
+
+[Box:  - ::AboutSumdd]
+X=3655
+Y=210
+
+[Box:  - ::APOGEELib_TLB]
+X=2862
+Y=380
+
+[Box:  - ::CameraControl]
+X=2220
+Y=295
+
+[Box:  - ::ConstrainedIterativeDeconvolution]
+X=2600
+Y=210
+
+[Box:  - ::ControlOptions]
+X=3450
+Y=210
+
+[Box:  - ::DarkCurrentAdquisition]
+X=1530
+Y=210
+
+[Box:  - ::DataSectioning]
+X=2395
+Y=125
+
+[Box:  - ::DecTypes]
+X=1885
+Y=380
+
+[Box:  - ::FilesManagement]
+X=2645
+Y=295
+
+[Box:  - ::ImageCapture]
+X=1325
+Y=210
+
+[Box:  - ::InitWindow]
+X=3025
+Y=210
+
+[Box:  - ::LightMonitor]
+X=1680
+Y=380
+
+[Box:  - ::MainForm]
+X=1750
+Y=125
+
+[Box:  - ::ProgressActivity]
+X=1502
+Y=465
+
+[Box:  - ::Sectioning]
+X=460
+Y=210
+
+[Box:  - ::SectioningFiling]
+X=225
+Y=125
+
+[Box:  - ::StageControl]
+X=2850
+Y=295
+
+[Box:  - ::SUMDD]
+X=1747
+Y=40
+
+[Box:  - ::TemperatureControl]
+X=1735
+Y=210
+
+[Box:  - ::TimeLapseFiling]
+X=20
+Y=125
+
+[Box:  - ::TofyLink]
+X=1885
+Y=465
+
+[Diagram:]
+OffsetX=0
+OffsetY=2058
+Visibility=0
+ShowAssoc=0
+
+[Box: ::CameraControl - ::APOGEELib_TLB::ICamera]
+X=405
+Y=17943
+
+[Box: ::CameraControl - ::CameraControl::AM4Camera]
+X=20
+Y=40
+
+[Box: ::CameraControl - ::CameraControl::CCDCamera]
+X=20
+Y=40
+Visible=0
+
+[Diagram: ::CameraControl]
+OffsetX=0
+OffsetY=0
+Visibility=2
+ShowAssoc=1
+

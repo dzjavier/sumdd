@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.Sectioner" Type="System.String" Value="Namespace1" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Namespace1" Type="System.String" Value="Namespace1" IsBrowsable="False" />
+  <Option Name="namespaceFolder.CameraControl" Type="System.String" Value="Namespace1" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Bmp2Tiff" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.DeconvAlgorithms" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FilesManagement" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.SUMDD" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.MainForm" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.SectioningFiling" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.AboutSumdd" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Coloc2DView" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.StageControl" Type="System.String" Value="Namespace1" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Sectioning" Type="System.String" Value="Namespace1" IsBrowsable="False" />
+  <Option Name="Gendoc.Images" Type="System.Boolean" Value="True" IsBrowsable="False" />
+  <Option Name="Gendoc.NavigationTree" Type="System.Boolean" Value="True" IsBrowsable="False" />
+  <Option Name="Gendoc.OutputFolder" Type="System.String" Value="C:\Javier\Programming\Turbo_SUMDD\Source\out\doc" IsBrowsable="False" />
+  <Option Name="Gendoc.LaunchBrowser" Type="System.Boolean" Value="True" IsBrowsable="False" />
+  <Option Name="namespaceFolder.APOGEELib_TLB" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.DecTypes" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.WienerFilterDeconvolution" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.TofyLink" Type="System.String" Value="TofyLink" IsBrowsable="False" />
+  <Option Name="namespaceFolder.SectionView" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ControlOptions" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FourierTransforms" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.SaveDeconvSectioning" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Colocalization2D" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ConstrainedIterativeDeconvolution" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.InitWindow" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ThreeDProjection" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.SMDDManager" Type="System.String" Value="SMDDManager" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ImageCapture" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.DataSectioning" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Segmentation3D" Type="System.String" Value="Segmentation3D" IsBrowsable="False" />
+  <Option Name="namespaceFolder.TimeLapseFiling" Type="System.String" Value="TimeLapseFiling" IsBrowsable="False" />
+  <Option Name="namespaceFolder.LightMonitor" Type="System.String" Value="LightMonitor" IsBrowsable="False" />
+  <Option Name="namespaceFolder.NearestNeighborDeconvolution" Type="System.String" Value="NearestNeighborDeconvolution" IsBrowsable="False" />
+  <Option Name="namespaceFolder.TemperatureControl" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.LLSDeconvolution" Type="System.String" Value="LLSDeconvolution" IsBrowsable="False" />
+</TgConfig>

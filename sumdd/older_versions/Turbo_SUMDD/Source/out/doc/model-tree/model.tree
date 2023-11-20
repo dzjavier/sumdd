@@ -1,0 +1,12 @@
+node3 > NAME = DoOpticalSection, IMG = model-tree/ST_rc_Operation.gif, REF = Sectioning/globals Sectioning.html#DoOpticalSection(Double)->classFrame;
+node4 > NAME = DoTemporalSection, IMG = model-tree/ST_rc_Operation.gif, REF = Sectioning/globals Sectioning.html#DoTemporalSection()->classFrame;
+node5 > NAME = DoOpticalSection, IMG = model-tree/ST_rc_Operation.gif, REF = Sectioning/globals Sectioning.html#DoOpticalSection(Int32)->classFrame;
+node2 > NAME = globals Sectioning, IMG = model-tree/ST_rc_Module.gif, REF = Sectioning/globals Sectioning.html->classFrame, CHILDS = node3:node4:node5;
+node8 > NAME = DoOpticalSection, IMG = model-tree/ST_rc_Operation.gif, REF = Sectioning/globals Sectioning.html#DoOpticalSection(Double)->classFrame;
+node9 > NAME = DoTemporalSection, IMG = model-tree/ST_rc_Operation.gif, REF = Sectioning/globals Sectioning.html#DoTemporalSection()->classFrame;
+node10 > NAME = DoOpticalSection, IMG = model-tree/ST_rc_Operation.gif, REF = Sectioning/globals Sectioning.html#DoOpticalSection(Int32)->classFrame;
+node7 > NAME = globals Sectioning, IMG = model-tree/ST_rc_Module.gif, REF = Sectioning/globals Sectioning.html->classFrame, CHILDS = node8:node9:node10;
+node6 > NAME = Sectioning, IMG = model-tree/ST_Package Diagram.gif, REF = Sectioning/default.txvpck.html->classFrame, REF = Sectioning/doc-files/default.txvpck.html->imageFrame, CHILDS = node7;
+node1 > NAME = Sectioning, IMG = model-tree/ST_rc_Namespace.gif, REF = Sectioning/package-summary.html->classFrame, REF = Sectioning/doc-files/default.txvpck.html->imageFrame, CHILDS = node2:node6;
+node0 > NAME = SUMDD, IMG = model-tree/ST_Project.gif, REF = overview-summary.html->classFrame, CHILDS = node1;
+ROOT > CHILDS = node0

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="cc9b2xn13pr180h_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:SUMDD:Sectioning.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="20,20,120,77" />
+      <property name="bounds_setted_by_user" value="True" />
+      <reference referencedUin="delphi:e_field:src:SUMDD:Sectioning.Sect" />
+      <reference referencedUin="delphi:l_ast:src:SUMDD:Sectioning.Sect">
+        <property name="sourceAnchor" value="140,58" />
+        <property name="targetAnchor" value="160,58" />
+        <property name="bendpoints" value="" />
+      </reference>
+    </reference>
+    <reference referencedUin="delphi:e_class:src:SUMDD:Sectioning.Sectioner">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="160,20,147,95" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:Sectioning.Sectioner.doOpticalSectioning(System.Single,System.Double,System.Boolean,System.String,System.UInt16,System.UInt16,System.UInt16,System.UInt16)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:Sectioning.Sectioner.doOpticalSectioning(System.Single,System.Boolean,System.String,System.UInt16,System.Double,System.UInt16,System.UInt16,System.UInt16,System.UInt16)" />
+      <reference referencedUin="delphi:e_method:src:SUMDD:Sectioning.Sectioner.doTemporalSectioning(System.Single,System.Double,System.Boolean,System.String,System.UInt16,System.UInt16,System.UInt16,System.UInt16,System.UInt16)" />
+    </reference>
+  </view>
+</nodeSet>

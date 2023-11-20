@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <node uin="6y9u89f9ipot1di_n">
+    <property name="$metaclass" value="Note" />
+    <property name="$name" value="Note1" />
+    <property name="$note_text" value="modulo de control de camaras" />
+  </node>
+  <node uin="d00t16m8jluz0iq_n">
+    <property name="$metaclass" value="Note" />
+    <property name="$name" value="Note2" />
+    <property name="$note_text" value="" />
+  </node>
+</nodeSet>

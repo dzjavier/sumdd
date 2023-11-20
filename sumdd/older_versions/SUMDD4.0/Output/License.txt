@@ -1,0 +1,8 @@
+SUMDD ("el programa") es COPYRIGHT del Laboratorio de Microscopía de la Facultad de Ingeniería, Bioingeniería, Univerisidad Nacional de Entre Ríos ("los autores").
+
+Esta versión del programa es distribuida con propósitos de descubrir errores y obtener realimentación de usuarios.
+Usted no debe copiar, reproducir, alterar, modificar, decompilar, desensamblar, hacer ingeniería inversa, o crear trabajos derivados del programa.
+Los autores no otorgan ninguna GARANTÍA, de ninguna clase o naturaleza, ni se responsabilizan por daños que puedan ocurrir sobre software o hardware, ocasionados por el uso del programa.
+Usted podrá contactar a los autores con propósitos de consulta técnica o de reporte de errores, pero los autores se reservan el derecho de respuesta.
+
+SI USTED NO ESTÁ DE ACUERDO CON ALGUNA O TODAS LAS CONDICIONES ANTES EXPUESTAS, DEBERÁ (i) INMEDIATAMENTE DETENER EL USO DEL PROGRAMA, Y (ii) DESINSTALAR EL PROGRAMA Y DESTRUIR TODAS LAS COPIAS QUE POSEA DEL MISMO, INCLUYENDO CUALQUIER COPIA ALMACENADA EN SU DISCO RÍGIDO Y/O EN OTROS MEDIOS DE ALMACENAMIENTO.
